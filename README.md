@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Admin Dashboard
 
 A responsive admin dashboard built with [your tech stack, e.g., React, Tailwind CSS].
@@ -25,9 +26,15 @@ npm install
 npm start
 =======
 # Getting Started with Create React App
+=======
+# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+![Shoppy]([https://i.ibb.co/fHPM38q/image.png](https://i.ibb.co/1L8nV5n/image.png))
+>>>>>>> 774495d (Update README.md)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
+This is a code repository for the corresponding video tutorial.
 
+<<<<<<< HEAD
 ## Available Scripts
 
 In the project directory, you can run:
@@ -95,3 +102,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 542c20f (initial commit)
+=======
+## Stay up to date with new projects
+New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
+>>>>>>> 774495d (Update README.md)

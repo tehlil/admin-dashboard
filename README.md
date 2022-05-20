@@ -28,8 +28,12 @@ npm start
 # Getting Started with Create React App
 =======
 # Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+<<<<<<< HEAD
 ![Shoppy]([https://i.ibb.co/fHPM38q/image.png](https://i.ibb.co/1L8nV5n/image.png))
 >>>>>>> 774495d (Update README.md)
+=======
+![Shoppy]([https://i.ibb.co/W6g39w3/image.png])
+>>>>>>> 789aeda (Update README.md)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
